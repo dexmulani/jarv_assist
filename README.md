@@ -6,7 +6,7 @@ The assistant uses a flexible brain chain:
 
 ```text
 OpenAI-compatible API -> Ollama -> Offline fallback
-```
+```   //
 
 That means it can still run without internet or external AI services, but it becomes much smarter when connected to Ollama, OpenAI, LM Studio, or another OpenAI-compatible model server.
 
