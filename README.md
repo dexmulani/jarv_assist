@@ -2,7 +2,7 @@
 
 A futuristic Windows desktop assistant built with Python and Tkinter. JARVIS can open apps, respond to typed or optional voice commands, summarize files, and chat using a real AI provider when available.
 
-The assistant uses a flexible brain chain:
+The assistant uses a flexible brain chain:               
 
 ```text
 OpenAI-compatible API -> Ollama -> Offline fallback
